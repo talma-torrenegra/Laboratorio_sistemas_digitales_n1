@@ -88,7 +88,7 @@ Comprender el comportamiento del temporizador 555 en **modo astable**, analizand
 | Protoboard | — | Montaje del circuito |
 | Jumpers | — | Conexiones |
 
-> 📸 **Foto 1 – Componentes antes del montaje**
+>  **Foto 1 – Componentes antes del montaje**
 > *(Insertar foto aquí)*
 
 ---
