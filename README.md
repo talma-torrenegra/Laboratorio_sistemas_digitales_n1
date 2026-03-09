@@ -129,11 +129,11 @@ Conectado al **potenciómetro de 10kΩ** (terminal central). Permite modificar l
 ** Configuración del Potenciómetro**
 Un terminal lateral del potenciómetro se conectó al **pin 2**, creando el camino de carga y descarga. Al girarlo se modifica la resistencia total y por tanto la **frecuencia de la señal generada**.
 
-** Foto 2 – Circuito en protoboard (sin energizar)**
+**  – Circuito en protoboard (sin energizar)**
 
 ![Circuito armado en protoboard](foto3_protoboard.png)
 
-** Foto 3 – Montaje completo con conexiones**
+**  – Montaje completo con conexiones**
 
 ![Montaje completo](foto2_montaje_led.png)
 
@@ -180,15 +180,15 @@ Al conectar la batería de **9V**, el temporizador 555 inició automáticamente 
 -  La variación del potenciómetro cambió la velocidad de parpadeo del LED.
 -  Las resistencias limitaron la corriente evitando daños en los LEDs.
 
-** Foto 4 – Circuito funcionando con LED encendido**
+**  – Circuito funcionando con LED encendido**
 
 ![Circuito funcionando - LED encendido](foto5_circuito_completo.png)
 
-** Foto 5 – LED en máxima intensidad**
+**  – LED en máxima intensidad**
 
 ![LED encendido máxima intensidad](foto4_led_encendido.png)
 
-** Foto 6 – Segunda toma del circuito en funcionamiento**
+**  – Segunda toma del circuito en funcionamiento**
 
 ![Segunda toma funcionando](foto6_funcionando.png)
 
