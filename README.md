@@ -254,6 +254,7 @@ Función Booleana: `Y = A · B`
 
 La salida es 1 únicamente cuando todas las entradas son 1.
 
+
 ### Tabla de Verdad
 
 | A | B | Y = A · B | LED |
